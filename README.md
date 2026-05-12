@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://gemini.google.com/share/ef183590796d" alt="Web Developer Challenge" width="100%"/>
-</p>
+---<img width="2320" height="464" alt="Gemini_Generated_Image_6n12dp6n12dp6n12" src="https://github.com/user-attachments/assets/50382a98-5e38-4fa8-9080-a27a660114d5" />
 
 # Hi there 👋, I'm Muhammad Talha
 
@@ -8,7 +6,8 @@
 
 Passionate MERN Stack Developer with experience in building scalable web applications using modern technologies.
 
----
+
+
 
 ## 👨‍💻 About Me
 
