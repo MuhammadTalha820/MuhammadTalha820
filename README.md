@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Muhammad Talha
 
-## 🚀 Full Stack Developer | MERN Stack Developer
+## 🚀 MERN Stack Developer
 
-Passionate Full Stack Developer with experience in building scalable web applications using modern technologies.
+Passionate MERN Stack Developer with experience in building scalable web applications using modern technologies.
 
 ---
 
