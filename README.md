@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://ibb.co/nNGHBZDj" alt="Web Developer Challenge" width="100%"/>
+  <img src="https://ibb.co/nNGHBZDj.jpg" alt="Web Developer Challenge" width="100%"/>
 </p>
 
 
