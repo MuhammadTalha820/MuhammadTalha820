@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/jkXtKjgq/your-image.jpg" alt="Web Developer Challenge" width="100%" />
+  <img src="https://i.ibb.co/jkXtKjgq/your-image.jpg" alt="Web Developer Challenge" width="850"/>
 </p>
 
 # Hi there 👋, I'm Muhammad Talha
