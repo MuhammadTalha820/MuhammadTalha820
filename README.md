@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/nNGHBZDj" alt="Web Developer Challenge" width="100%"/>
+  <img src="https://i.ibb.co/nNGHBZDj/watermarked-img-11700401587966342176.png" alt="Web Developer Challenge" width="100%"/>
 </p>
 
 # Hi there 👋, I'm Muhammad Talha
