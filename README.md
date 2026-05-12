@@ -1,7 +1,8 @@
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.ibb.co/jkXtKjgq/your-image.jpg" alt="Web Developer Challenge" width="100%"/>
-</p>
+</p> -->
+<p align="center"> <img src="https://i.ibb.co/jkXtKjgq/your-image.jpg" alt="Compact Banner" style="width:100%; height:auto; max-height: 150px; object-fit: cover;"/> </p>
 
 # Hi there 👋, I'm Muhammad Talha
 
