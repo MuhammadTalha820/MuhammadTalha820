@@ -19,8 +19,8 @@ Passionate Full Stack Developer with experience in building scalable web applica
 ## 🛠 Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - TypeScript
 - React.js
