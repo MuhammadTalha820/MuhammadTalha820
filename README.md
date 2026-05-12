@@ -62,7 +62,7 @@ mtalha820370@gmail.com
 
 ## 📊 GitHub Stats
 
-![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadTalha820&show_icons=true)
+![Muhammad Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadTalha820&show_icons=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTalha820&layout=compact)
 
